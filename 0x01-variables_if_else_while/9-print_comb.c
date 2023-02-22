@@ -4,8 +4,8 @@
  * main - print the single  digit with comma
  * Return: Always 0
  */
-int main(void)
 
+int main(void)
 {
 	int n;
 
@@ -21,5 +21,3 @@ int main(void)
 	return (0);
 
 	}
-}
-
