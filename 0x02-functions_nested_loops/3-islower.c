@@ -1,6 +1,7 @@
 #include "main.h"
 
  /**
+  * main - Entry point
   * _islower - prints lowercase
   *
   * @c: parameter to be printed
@@ -9,7 +10,7 @@
   * and 0 otherwise
   */
 
-int _islower(int c)
+int _islower(int c);
 
 {
 
